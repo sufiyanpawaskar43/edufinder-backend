@@ -1,0 +1,10 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+target/
+.oracle/
+oracleJdk-26/
+uploads/
+*.class
+*.log
+.idea/
+.vscode/
